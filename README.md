@@ -1,4 +1,4 @@
-# ¡Hola! Soy Emanuel Frias
+# ¡Hola! Soy Emanuel Frias 👋
 
 Soy un **Desarrollador Junior** de Salta, Argentina. 🇦🇷
 Actualmente estoy estudiando **Ingeniería en Informática** en la UCASAL y **Ciberseguridad** con el objetivo de obtener la certificación **CC**.
