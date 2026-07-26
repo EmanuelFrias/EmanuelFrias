@@ -34,6 +34,6 @@ Me apasiona crear aplicaciones web seguras y el hacking ético.
 
 ---
 
-## Puedes encontrarme en:
+## 🔗 Contacto:
 - [LinkedIn]()
 - [Instagram](https://www.instagram.com/emaafrias_/#)
