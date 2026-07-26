@@ -1,3 +1,2 @@
 # EMANUEL FRIAS
-#--------------------
-Informatic Engineer Student  & Cibersecurity Student
+# Informatic Engineer Student  & Cibersecurity Student
