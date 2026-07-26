@@ -3,7 +3,7 @@
 Soy un Desarrollador Junion de Salta, Argentina. Actualmente estoy estudiando Ingenieria en Informatica (UCASAL) y Ciberseguridad a fin de conseguir certificacion CC. Me gusta crear aplicaciones web y el hacking.
 
 ## Ultimos trabajos
-- [Casacerro Web landing] (https://casacerro.com.ar/)
+- [Casacerro Web landing](https://casacerro.com.ar/)
 
 ## 💻 Desarrollo de software
 *Lenguajes y Frameworks para la construcción de aplicaciones seguras.*
